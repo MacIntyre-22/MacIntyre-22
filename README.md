@@ -1,7 +1,7 @@
 # Web and Mobile App Developer
 
 ## 📁 My Work
-Check out my projects on [my website](https://benmacintyre.ca).
+Check out my projects on [my website](https://benmacintyre.net).
 
 ## 👨‍💻 About Me
 I'm a passionate web and mobile application developer with experience in both frontend and backend technologies. I specialize in building user-friendly applications and working collaboratively on team-based projects.
